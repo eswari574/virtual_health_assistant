@@ -1,0 +1,56 @@
+# Medical Knowledge Base for AI Q&A System
+
+## Common Diseases & Their Details
+
+### 1. Cardiovascular Diseases
+- **Heart Attack (Myocardial Infarction)**: Occurs when blood flow to the heart is blocked.
+  - **Symptoms**: Chest pain, shortness of breath, nausea, pain in the left arm.
+  - **Treatment**: Aspirin, clot-busting drugs, angioplasty, bypass surgery.
+  - **Specialist**: Cardiologist
+
+- **Hypertension (High Blood Pressure)**: A condition where the force of blood against artery walls is too high.
+  - **Symptoms**: Headaches, nosebleeds, dizziness, chest pain.
+  - **Treatment**: Lifestyle changes, ACE inhibitors, beta-blockers.
+  - **Specialist**: Cardiologist
+
+### 2. Respiratory Diseases
+- **Asthma**: A condition where airways narrow and produce extra mucus.
+  - **Symptoms**: Shortness of breath, wheezing, chest tightness.
+  - **Treatment**: Inhalers (bronchodilators), corticosteroids, oxygen therapy.
+  - **Specialist**: Pulmonologist
+
+- **Pneumonia**: Infection causing inflammation in the lungs' air sacs.
+  - **Symptoms**: Fever, cough, chest pain, difficulty breathing.
+  - **Treatment**: Antibiotics (bacterial pneumonia), antiviral drugs, oxygen therapy.
+  - **Specialist**: Pulmonologist
+
+### 3. Endocrine Disorders
+- **Diabetes (Type 1 & Type 2)**: Affects blood sugar regulation.
+  - **Symptoms**: Frequent urination, excessive thirst, fatigue, blurred vision.
+  - **Treatment**: Insulin therapy, oral medications (Metformin), lifestyle changes.
+  - **Specialist**: Endocrinologist
+
+### 4. Neurological Disorders
+- **Stroke**: Brain damage due to interrupted blood supply.
+  - **Symptoms**: Face drooping, arm weakness, speech difficulty.
+  - **Treatment**: Clot-busting drugs, surgery, rehabilitation therapy.
+  - **Specialist**: Neurologist
+
+### 5. Infectious Diseases
+- **Tuberculosis (TB)**: A bacterial infection affecting the lungs.
+  - **Symptoms**: Chronic cough, weight loss, night sweats, fever.
+  - **Treatment**: Rifampin, Isoniazid, Ethambutol, Pyrazinamide.
+  - **Specialist**: Infectious Disease Specialist
+
+- **Malaria**: A mosquito-borne disease caused by Plasmodium parasites.
+  - **Symptoms**: Fever, chills, sweating, nausea.
+  - **Treatment**: Antimalarial drugs (Chloroquine, Artemisinin-based therapies).
+  - **Specialist**: Infectious Disease Specialist
+
+## Doctor Specialties & What They Treat
+- **Cardiologist** → Heart Attack, Hypertension, Arrhythmias.
+- **Pulmonologist** → Asthma, Pneumonia, COPD.
+- **Endocrinologist** → Diabetes, Thyroid Disorders.
+- **Neurologist** → Stroke, Epilepsy, Parkinson’s Disease.
+- **Oncologist** → Cancer (Lung, Breast, Blood).
+- **Dermatologist** → Skin Diseases (Eczema, Psoriasis).

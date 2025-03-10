@@ -37,7 +37,7 @@ Integrates with Health Records:Syncs with hospital databases for seamless experi
 Multilingual & Accessible: Supports different languages for a wider reach.
  
  Input:
- we have tested some sample testcase ,when approcah with that testcases you can get the relvant output
+ we have tested some sample testcase ,when approcah with that testcases you can get the relevant output
  The test cases we tested are:
  basic queries like:
     "what is diabetes",
